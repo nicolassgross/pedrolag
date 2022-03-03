@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey, you! 👋
+
+<!-- My description -->
+My name is [Pedro Luis Arend Gonçalves](https://bit.ly/3KjbgCh), I'm 25 y/o and currently working as a Front-end developer at [Plataforma A+](https://www.plataformaamais.com.br/). I've started as a Java programmer a long time ago, but decided to engage more with the users.
+
+<!-- My current project link + some info about it -->
+I'm currently working on [this project here](https://github.com/pedrolag), which is a image gallery using Vue.js.
+
+
 
 <!--
 **pedrolag/pedrolag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
