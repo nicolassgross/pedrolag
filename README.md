@@ -32,6 +32,20 @@ I'm currently working on [this project here](https://github.com/pedrolag/smart-g
 <a target="_blank" href="https://babeljs.io/"><img alt="babel logo" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" /></a>
 
 
+#### And here are some another things that I use while applying what I know of UX/UI Design
+
+...
+
+
+#### Now here are some things that I'm looking foward to learn from now on
+
+...
+
+#
+
+#### You can contact me through these
+
+...
 
 
 <!--
