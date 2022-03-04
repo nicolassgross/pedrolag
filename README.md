@@ -1,7 +1,12 @@
 ### Hey, you! 👋
 
 <!-- My description -->
-My name is [Pedro Luis Arend Gonçalves](https://bit.ly/3KjbgCh), I'm 25 y/o and currently working as a Front-end developer at [Plataforma A+](https://www.plataformaamais.com.br/). I've started as a Java developer a long time ago, but decided to engage more with the users.
+My name is [Pedro Luis Arend Gonçalves](https://bit.ly/3KjbgCh), I'm 25 y/o and currently working as a front-end developer at [Plataforma A+](https://www.plataformaamais.com.br/). 
+
+#
+
+#### About me
+I've started as a Java developer a long time ago, but decided to engage more with the users through front-end and [UI design](https://uxplanet.org/what-is-ui-vs-ux-design-and-the-difference-d9113f6612de). When I knew that I'd found what I like to do, I've decided to study by myself at home, just like your everyday-nerd-geek-dev-awesome-amazing-guy.
 
 
 #
@@ -38,6 +43,11 @@ My name is [Pedro Luis Arend Gonçalves](https://bit.ly/3KjbgCh), I'm 25 y/o and
 <a target="_blank" href="https://wa.me/5547991161411"><img alt="whatsapp logo" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a target="_blank" href="https://discordapp.com/users/277923839357222912/"><img alt="discord logo" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
+#### You can also find me in other places, like ...
+
+<a target="_blank" href="https://www.instagram.com/pedro.la.goncalves/"><img alt="instagram logo" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a target="_blank" href="https://open.spotify.com/user/qqxqfpls0j1ifiwiapnuor2c3"><img alt="spotify logo" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+
 #
 
 <!-- My current project link + some info about it -->
@@ -47,7 +57,7 @@ I'm currently working on [this solo personal project here](https://github.com/pe
 #
 
 <!-- A "What am I going to do next?" like section thingy -->
-#### Ok, cool! But what's next?
+#### Cool! But, what's next?
 There are some things that I am looking foward to learn more about, such as:
 
 - How to make my applications more accessible?
