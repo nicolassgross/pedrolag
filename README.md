@@ -3,13 +3,11 @@
 <!-- My description -->
 My name is [Pedro Luis Arend Gonçalves](https://bit.ly/3KjbgCh), I'm 25 y/o and currently working as a Front-end developer at [Plataforma A+](https://www.plataformaamais.com.br/). I've started as a Java developer a long time ago, but decided to engage more with the users.
 
-<!-- My current project link + some info about it -->
-I'm currently working on [this project here](https://github.com/pedrolag/smart-gallery), which is a image gallery using Vue.js.
 
 #
 
 <!-- Cool things that I know about -->
-#### Here are some of the things that I use/know/enjoy the most for development
+#### Here are some of the things that I use/know/enjoy the most for design and development
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/HTML5"><img alt="html5 logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a target="_blank" href="https://pt.wikipedia.org/wiki/CSS3"><img alt="css3 logo" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
@@ -31,22 +29,37 @@ I'm currently working on [this project here](https://github.com/pedrolag/smart-g
 <a target="_blank" href="https://jestjs.io/"><img alt="cypress logo" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /></a>
 <a target="_blank" href="https://babeljs.io/"><img alt="babel logo" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" /></a>
 
+#
 
-#### And here are some another things that I use while applying what I know of UX/UI Design
+#### Wanna get in touch? Try through one of these
 
-...
-
-
-#### Now here are some things that I'm looking foward to learn from now on
-
-...
+<a target="_blank" href="mailto:pedrolagoncalves@gmail.com"><img alt="gmail logo" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a target="_blank" href="https://bit.ly/3KjbgCh"><img alt="linkedin logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="https://wa.me/5547991161411"><img alt="whatsapp logo" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a target="_blank" href="https://discordapp.com/users/277923839357222912/"><img alt="discord logo" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 #
 
-#### You can contact me through these
+<!-- My current project link + some info about it -->
+#### What am I doing now?
+I'm currently working on [this solo personal project here](https://github.com/pedrolag/smart-gallery), which is a image gallery using Vue.js.
 
-...
+#
 
+<!-- A "What am I going to do next?" like section thingy -->
+#### Ok, cool! But what's next?
+There are some things that I am looking foward to learn more about, such as:
+
+- How to make my applications more accessible?
+- How to get better at <abbr title="Test Driven Development">TDD</abbr>?
+- How to properly create a <abbr title="">RESTful</abbr> <abbr title="Application Programming Interfaces">API</abbr>?
+
+Also, I'm thinking in trying out some different things, like:
+
+<a target="_blank" href="https://reactjs.org/"><img alt="react logo" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a target="_blank" href="https://flutter.dev/"><img alt="flutter logo" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /></a>
+
+#
 
 <!--
 **pedrolag/pedrolag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
